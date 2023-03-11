@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.pin-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+
+}
+
+.pins {
+  padding: 0.4rem 0.7rem;
+  margin: 0.2rem;
+  border-radius: 10px;
+  color: black;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.pins:hover {
+  background-color: grey;
+  color: black;
+
+}

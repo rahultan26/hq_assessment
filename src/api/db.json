@@ -1,0 +1,156 @@
+{
+    
+    "Principal Software Engineer":{
+        "skills": [
+            "Mfc",
+            "Representational State Transfer",
+            "Software Architecture",
+            "Distributed Systems",
+            "Software Design+System Architecture",
+            "Perl",
+            "Software Architectural Design",
+            "Software Engineering",
+            "Software Development",
+            "Cvs",
+            "Clearcase",
+            "Object Oriented Design",
+            "Software Design Patterns",
+            "Agile Methodologies",
+            "Multithreading+Subversion",
+            "Win32 Api",
+            "Continuous Integration"
+        ],
+        "related_jobs": ["Software Engineer"]
+    },
+    "Software Engineer": {
+        "skills": [
+            "Object Oriented Design",
+            "Software Design",
+            "Multithreading",
+            "Ooad+Unit Testing",
+            "Oop",
+            "C#",
+            "Web Services",
+            "Software Architectural Design",
+            "Software Engineering",
+            "Json",
+            "Eclipse+Software Development",
+            "Software Architecture",
+            "Agile Methodologies",
+            "Representational State Transfer",
+            "Tortoise Svn",
+            "Restful Webservices"
+        ],
+        "related_jobs": ["Principal Software Engineer"]
+    },
+    
+        "Business Analyst":{
+            "skills": [
+                "Dashboard",
+                "Data Warehousing",
+                "Qlikview",
+                "Qlik Sense",
+                "Business Intelligence Tool",
+                "Teradata Data Warehouse",
+                "User Acceptance Testing",
+                "Gap Analysis",
+                "Microstrategy",
+                "Web Intelligence",
+                "Business Analysis",
+                "Functional Requirements",
+                "Business Requirements",
+                "Business Process Analysis",
+                "Business Process Mapping",
+                "Star Schema",
+                "Dimensional Modeling",
+                "Use Case Analysis",
+                "Requirements Gathering"
+            ],
+            "related_jobs": ["Associate Business Analyst"]
+        },
+         "Associate Business Analyst":{
+            "skills": [
+                "Dashboard+Qlikview",
+                "Qlik Sense+Business Intelligence Tools",
+                "Teradata Data Warehouse",
+                "Etl Tools",
+                "Data Marts",
+                "Qlikview Development",
+                "Microstrategy",
+                "Teradata Sql",
+                "Web Intelligence",
+                "Brd",
+                "Teradata",
+                "Brds",
+                "Tableau",
+                "Microsoft Bi Suite",
+                "Star Schema",
+                "Dimensional Modeling",
+                "Alteryx",
+                "Microstrategy Reporting"
+            ],
+            "related_jobs": ["Associate Business Analyst"]
+        },
+        "Product Manager":{
+            "skills": [
+                "Product Strategy",
+                "Product Management",
+                "Product Launch",
+                "Product Lifecycle Management",
+                "Product Marketing",
+                "Product Development"
+            ],
+            "related_jobs": ["Associate Marketing Manager","Marketing Manager"]
+        },
+         "Assistant Marketing Manager":{
+            "skills": [
+                "Market Research",
+                "Marketing Plan Creation",
+                "Marketing Management",
+                "Agency Relationship Management",
+                "Brand Activation",
+                "Below The Line Advertising",
+                "Consumer Marketing",
+                "Marketing Communications Planning",
+                "Above The Line",
+                "Marketing Budget",
+                "Marketing Activation",
+                "Sales Promotion",
+                "Marketing Budget Management",
+                "Btl Activations",
+                "Marketing Research",
+                "Brand Marketing",
+                "Integrated Brand Marketing",
+                "Integrated Marketing Communications Planning",
+                "Integrated Campaign Planning",
+                "Brand Management"
+            ],
+            "related_jobs": ["Product Manager","Marketing Manager"]
+        },
+         "Marketing Manager" :{
+            "skills": [
+                "Marketing",
+                "Marketing Communications Planning",
+                "Consumer Marketing",
+                "Brand Management",
+                "Product Marketing",
+                "Marketing Budget Management",
+                "Marketing Communications",
+                "Sales And Marketing",
+                "B2b Marketing Strategy",
+                "Market Planning",
+                "Marketing Management",
+                "B2c Marketing",
+                "Integrated Marketing Communications Planning",
+                "Strategic Marketing",
+                "Direct Marketing",
+                "B2b Marketing",
+                "Integrated Marketing",
+                "Corporate Marketing",
+                "Marketing Strategy",
+                "Marketing And Business Development"
+            ],
+            "related_jobs": ["Associate Marketing Manager","Marketing Manager"]
+        }
+    
+}
